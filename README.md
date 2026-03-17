@@ -1,16 +1,26 @@
-# myapp
+# IAMoviles Act 3 Drawer Rutas Nombradas en main
 
-A new Flutter project.
+## Parisina
 
-## Getting Started
+## Prompt
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+* **Estructura:** Crea una aplicación en Flutter y Dart usando rutas nombradas para la navegación.
+* **Páginas:** Implementa una página de Inicio y cuatro secciones llamadas Telas, Hilos, Máquinas y Vestir.
+* **Navegación:** Diseña un `Drawer` (menú lateral) que permita saltar entre todas las páginas, incluyendo una opción para volver al Inicio.
+* **Colores:** Usa una paleta con Rojo fuerte para los `AppBar`, Blanco para los fondos de pantalla y Negro para los textos.
+* **Iconos:** Configura todos los iconos del menú lateral en color Amarillo Mostaza.
+* **Encabezado:** Diseña un `UserAccountsDrawerHeader` rojo con el nombre "Parisina", el correo "ParisinaNegocios@gmail.com" y un logo circular desde GitHub.
+* **Información de Contacto:** Agrega en el menú la dirección de Plaza Monumental y el teléfono "+52 656 262 2502" de forma clara y sin amontonar.
+* **Contenido:** En cada página de categoría, coloca una imagen de GitHub centrada con un tamaño fijo de 200x200.
+* **Pie de página:** Incluye al final del menú la leyenda "Parisina De La Rosa - 2026 ®".
+* **Estilo:** Asegura que los `AppBar` sean iguales en todas las pantallas (Rojo con letras blancas y centradas).
+* **Imagenes:** Sacadas desde el repositorio https://github.com/DeLaRosaRojas/Imagenes-Parisina_De-La-Rosa-6I.git y exportadas al actual.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Trabajar con firebase studio.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En readme escribir el prompt para generar la app en un solo archivo segun lo anterior + las imagenes correspondientes,
+probar en dartpad antes de trabajar en firbase studio.
+
+En firebase studio el main.dart  rutas nombradas + carpeta  "LasPaginas" y dentro de ellas los archivos correspondientes de dart.
+enviar link + QR
