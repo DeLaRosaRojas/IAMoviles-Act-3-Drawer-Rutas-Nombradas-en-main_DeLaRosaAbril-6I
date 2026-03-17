@@ -1,6 +1,10 @@
 # IAMoviles Act 3 Drawer Rutas Nombradas en main
 
-## Parisina
+## Parisina Imagenes
+<img width="426" height="666" alt="image" src="https://github.com/user-attachments/assets/300868f7-bfa5-48f4-abf8-4e76aaf09fe1" />
+<img width="486" height="660" alt="image" src="https://github.com/user-attachments/assets/23174bbd-2bb2-476f-b40f-459e726e696d" />
+<img width="484" height="663" alt="image" src="https://github.com/user-attachments/assets/1bb64ff0-2650-4dbd-96d8-6683abe7789c" />
+
 
 ## Prompt
 
